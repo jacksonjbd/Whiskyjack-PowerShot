@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "Whiskyjack Default",
+            "colors": [
+                "#000000",
+                "#78DC52",
+                "#249CA3",
+                "#E5CDC4",
+                "#A4839F",
+                "#5C406c",
+                "#87F2FF",
+                "#FFFFFF",
+                "#E1DEE7",
+                "#BDB5C8",
+                "#938B9E",
+                "#6D6778",
+                "#504758",
+                "#13161C",
+                "#30363F",
+                "#292F38"
+            ],
+            "custom": true
+        }
+    }
+}
